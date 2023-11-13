@@ -5,4 +5,4 @@
 2. PRSD implements the protocol described in PRSD: Efficient Privacy-preserving Retrieval of Sensitive Data based on PSI-Payload. [https://eprint.iacr.org/2023/1631]
 3. The library is cross-platform (win, linux, mac) and depends on OpenSSL 2.0 version, libOTe, sparsehash, and Coproto.
 # Department  
-Department of Information Security, School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China. http://infosec.bjtu.edu.cn/
+Department of Information Security, School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China. http://infosec.bjtu.edu.cn/.
